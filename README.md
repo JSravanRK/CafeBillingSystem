@@ -2,7 +2,7 @@
 
 A terminal-based Café Billing System built in C, designed for efficient order handling, billing, and receipt generation in an institute-based café (DC Café). This system features a user-friendly interface, categorization-based discounting, and persistent user authentication.
 
-
+---
 
 ## 🛠️ Features
 
